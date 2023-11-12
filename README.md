@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andrei, a full-time Cyber Security Engineer 👨‍💻 working remotely since 2021🚀</div>  
+### <div align="center">I'm Andrei, a full-time Cyber Security Engineer, Security+ certified 👨‍💻 working remotely since 2021🚀</div>  
   
 
 - 🔭 I’m currently working at ASSIST Software  
