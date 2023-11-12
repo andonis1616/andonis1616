@@ -1,5 +1,5 @@
 <div align="center">
-![pinguim-penguin](https://github.com/andonis1616/andonis1616/assets/23013250/7157a061-a85f-4dd6-8458-49c1d5867cf3)
+<img src="https://github.com/andonis1616/andonis1616/assets/23013250/7157a061-a85f-4dd6-8458-49c1d5867cf3" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>  
   
 
