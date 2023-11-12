@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+![pinguim-penguin](https://github.com/andonis1616/andonis1616/assets/23013250/7157a061-a85f-4dd6-8458-49c1d5867cf3)
 </div>  
   
 
