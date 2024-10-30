@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Andrei, a full-time Cyber Security Engineer, Security+ certified 👨‍💻 working remotely since 2021🚀</div>  
+### <div align="center">I'm Andrei, a full-time Cyber Security Engineer, Security+ and OSCP certified 👨‍💻 working remotely since 2021🚀</div>  
   
 
 - 🔭 I’m currently working at ASSIST Software  
   
 
-- 🌱 I’m currently learning for OSCP and HTB-CPTS  
+- 🌱 I’m currently learning for the HTB-CPTS certification 
   
 
 - 👀 Ask me about anything related to CTF Challenges and ☕  
@@ -79,8 +79,5 @@
 <div align="center">
 <a href="https://linkedin.com/in/andrei-robert-cuzenco-0aaa471b9" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@bitdestroyer" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
